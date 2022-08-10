@@ -1,6 +1,8 @@
 <h1>Programa Bullying</h1>
-<h2>Hecho por estudiantes, para estudiantes</h2>
+<h2>Esquema de flujo</h2>
+<img src='https://www.linkpicture.com/q/Wireframe-v3.png'>
 
+<h2>Informacion</h2>
 <h3>Seguridad anti-fraude:</h3>
 <ul>
 	<li>captcha/cooldown (5min)</li>
@@ -26,6 +28,3 @@
 	<li>Toxicidad</li>
 	<li>Adicciones</li>
 </ul>
-<br>
-<h1>Esquema de flujo</h1>
-<img src='https://www.linkpicture.com/q/Wireframe-v3.png'>
