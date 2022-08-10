@@ -5,6 +5,8 @@
 <h3>Seguridad anti-fraude:</h3>
 <ul>
 	<li>captcha/cooldown (5min)</li>
+	<li>codigo unico por institucion (5min)</li>
+	<li>Opcion en "Admin Dashboard" para reiniciar code(5min)</li>
 	<li>en caso de ser anónimo, registrar datos de emisor (hora)</li>
 </ul>
 
