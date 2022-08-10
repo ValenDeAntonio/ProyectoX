@@ -10,7 +10,7 @@
 	<li>en caso de ser anónimo, registrar datos de emisor (hora)</li>
 </ul>
 
-<h3>Formulario</h3>
+<h3>Formulario:</h3>
 <ul>
 	<li>Codigo de identificacion</li>
 	<li>Selección de destinatarios</li>
@@ -19,7 +19,7 @@
 	<li>pedido de respetar</li>
 </ul>
 
-<h3>Situaciones a reportar</h3>
+<h3>Situaciones a reportar:</h3>
 <ul>
 	<li>Abuso</li>
 	<li>Bullyng</li>
