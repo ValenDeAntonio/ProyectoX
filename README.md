@@ -1,4 +1,4 @@
-<h1>Programa Bullying</h1>
+<h1>Programa Anti-Bullying</h1>
 <img src='https://www.linkpicture.com/q/Wireframe-v3.png'>
 
 <h1>Informacion</h1>
