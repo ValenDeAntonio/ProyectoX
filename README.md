@@ -1,20 +1,21 @@
 <h1>Programa Bullying</h1>
-Hecho por estudiantes, para estudiantes
+<h2>Hecho por estudiantes, para estudiantes</h2>
 
 
-Seguridad anti-fraude:
-	captcha/cooldown (5min)
-	en caso de ser anónimo, registrar datos de emisor (hora)
+<h3>Seguridad anti-fraude:</h3>
+<ul>
+	<li>captcha/cooldown (5min)</li>
+	<li>en caso de ser anónimo, registrar datos de emisor (hora)</li>
+</ul>
 
-
-Formulario
+<h3>Formulario</h3>
 	Codigo de identificacion
 	Selección de destinatarios
 	Opción de imprimir documento
 	Sugerencias
 	pedido de respetar
 
-Situaciones a reportar
+<h3>Situaciones a reportar</h3>
 	Abuso
 	Bullyng
 	Venta de droga (?)
