@@ -27,4 +27,4 @@
 	<li>Toxicidad</li>
 	<li>Adicciones</li>
 </ul>
-<img src='https://www.linkpicture.com/q/Wireframe-v3.png' type='image'></a>
+<img src='https://www.linkpicture.com/q/Wireframe-v3.png'>
