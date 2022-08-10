@@ -9,18 +9,21 @@
 </ul>
 
 <h3>Formulario</h3>
-	Codigo de identificacion
-	Selección de destinatarios
-	Opción de imprimir documento
-	Sugerencias
-	pedido de respetar
+<ul>
+	<li>Codigo de identificacion</li>
+	<li>Selección de destinatarios</li>
+	<li>Opción de imprimir documento</li>
+	<li>Sugerencias</li>
+	<li>pedido de respetar</li>
+</ul>
 
 <h3>Situaciones a reportar</h3>
-	Abuso
-	Bullyng
-	Venta de droga (?)
-	Maltrato
-	Depresión
-	Toxicidad (?)
-	Adicciones
-
+<ul>
+	<li>Abuso</li>
+	<li>Bullyng</li>
+	<li>Venta de droga</li>
+	<li>Maltrato</li>
+	<li>Depresión</li>
+	<li>Toxicidad</li>
+	<li>Adicciones</li>
+</ul>
