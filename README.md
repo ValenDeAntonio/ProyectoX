@@ -1,5 +1,4 @@
 <h1>Programa Bullying</h1>
-<h2>Esquema de flujo</h2>
 <img src='https://www.linkpicture.com/q/Wireframe-v3.png'>
 
 <h2>Informacion</h2>
