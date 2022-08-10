@@ -1,7 +1,7 @@
 <h1>Programa Bullying</h1>
 <img src='https://www.linkpicture.com/q/Wireframe-v3.png'>
 
-<h2>Informacion</h2>
+<h1>Informacion</h1>
 <h3>Seguridad anti-fraude:</h3>
 <ul>
 	<li>captcha/cooldown (5min)</li>
