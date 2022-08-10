@@ -1,0 +1,41 @@
+#main-barra {
+  background-color: #085394;
+  padding: 0 4% 0 4%;
+}
+
+#user-barra {
+  background-color: #085394;
+  padding: 0 4% 0 4%;
+}
+
+#user-login-barra {
+  background-color: #085394;
+  padding: 0 4% 0 4%;
+}
+
+#main-footer {
+  background-color: #6FA8DC;
+}
+
+#user-footer {
+  background-color: #6FA8DC;
+}
+
+#admin-barra {
+  background-color: #E69138;
+  padding: 0 4% 0 4%;
+}
+
+#admin-footer {
+  background-color: #E69138;
+}
+
+.nav-item {
+  padding: 0 1rem 0 1rem;
+}
+
+.carta {
+  text-align: left;
+  width: 350px;
+  margin-left: 5%;
+}
