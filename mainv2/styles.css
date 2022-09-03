@@ -1,0 +1,190 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: white;
+}
+
+/* LANDING PAGE START*/
+#barra {
+  background-color: #085394;
+  padding: 0 4% 0 4%;
+}
+
+#titulo {
+  background: rgb(8, 83, 148);
+  background: linear-gradient(80deg, rgba(8, 83, 148, 1) 30%, rgba(0, 212, 255, 0) 100%), url('imagenes/banner1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-attachment: fixed;*/
+  height: 360px;
+  padding: 1rem;
+}
+
+.carta {
+  text-align: left;
+  width: 320px;
+  height: 260px;
+  margin: 0 auto;
+  margin-left: 5%;
+  margin-top: 2rem;
+}
+
+/* LANDING PAGE END*/
+/* CONTENIDO 1 START */
+#contenido h2 {
+  padding: 100px 140px 100px 180px;
+}
+
+#main-contenido p {
+  padding: 100px 0 100px 100px;
+}
+
+.texto-contenido {
+  margin: 0 9% 0 0;
+  padding: 100px 0 100px 100px;
+}
+
+.titulo-contenido {
+  margin: 0 0 0 9%;
+}
+
+/* CONTENIDO 1 END */
+/* CARACTERISTICAS START */
+#cuadros {
+  color: white;
+  background-color: #085394;
+  text-align: center;
+  padding: 5% 15%;
+}
+
+.repre {
+  transition: transform 0.5s;
+  margin-bottom: 30px;
+}
+
+/* CARACTERISTICAS END */
+/* AYUDAR CTA START */
+#reporte {
+  padding: 5%;
+}
+
+/* AYUDAR CTA END */
+/* FOOTER START */
+#footer {
+  text-align: center;
+  padding: 2%;
+}
+
+/* FOOTER END */
+#testimonios {
+  padding: 10% 5%;
+  color: white;
+  background: #085394;
+  text-align: center;
+}
+
+.testimonioPfp {
+  height: 120px;
+  width: 120px;
+  border-radius: 100%;
+}
+
+/* LOGIN USER*/
+.loginBody {
+  background: #F5F5F5;
+}
+
+.login {
+  margin: 10% 42%;
+}
+
+.volver {
+  padding: 5%;
+}
+
+/* LOGIN ADMIN START */
+#barra-admin {
+  background-color: #E69138;
+  padding: 0 4% 0 4%;
+}
+
+/* LOGIN ADMIN END */
+/* USER ENTRY START */
+.custom-banner {
+  width: auto;
+  height: 320px;
+  background-color: lightgrey;
+}
+
+.aclaracion-report {
+  padding: 5%;
+  padding-bottom: 300px;
+}
+
+.aclaracion-report p {
+  padding: 0 45% 0 0;
+}
+
+.irFormulario {
+  margin-left: 40%;
+  width: 170px;
+  height: 45px;
+}
+
+/* aaaaaaaaaaaaaaaaaaaaaaaaaaa */
+.fade-in-text {
+  animation: fadeIn 2s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-ms-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
