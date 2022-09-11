@@ -1,0 +1,191 @@
+html {
+  scroll-behavior: smooth;
+}
+
+#navbar{
+  background-color: #406d74; /* toogle class on scroll */
+}
+
+
+
+.opcionesNav {
+  margin-left: 90%;
+}
+
+/* Seccion titulo */
+#titulo {
+  background-color: #a2c4c9;
+  text-align: center;
+  position: relative;
+  height: 60%;
+}
+
+#titulo p{
+padding:0 10%;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* caracteristicas */
+#caracteristicas{
+    text-align: center;
+    padding: 5% 15%;
+    background-color: white;
+}
+
+/* funcionamiento */
+#funcionamiento{
+margin-top: 12%;
+}
+
+.ilust{
+  height: 50%;
+}
+
+/* valores */
+#valores{
+  text-align: center;
+  margin: 15% 0;
+}
+
+#valores h1{
+  margin-top: 5%;
+}
+
+/* testimonios */
+#testimonios {
+  padding: 7% 5%;
+  color: white;
+  background: #a2c4c9;
+  text-align: center;
+}
+
+.testimonioPfp {
+  height: 120px;
+  width: 120px;
+  border-radius: 100%;
+}
+
+/* reporte Call To Action */
+#reportarCTA {
+padding: 10% 7%;
+}
+
+.boton{
+  /* background-color: #EA9999; */
+  margin: 0.5% 0;
+  width: 15%;
+}
+
+/* footer */
+#footer {
+  text-align: center;
+  padding: 2%;
+}
+
+
+
+/* user report LOGIN  */
+
+#banner{
+  height: 25%;
+  background-color: #a2c4c9;
+  position: relative;
+  text-align: center;
+}
+
+#descripcion{
+  margin: 5% 0;
+  text-align: left;
+}
+
+#pasos{
+  text-align: center;
+  margin: 15%;
+}
+
+#confirmacion{
+  text-align: left;
+  margin: 5% 0;
+}
+
+.blur   {
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+}
+#overlay    {
+  position: fixed;
+  display: none;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  background: rgba(255,255,255,.8);
+  z-index: 999;
+}
+#popup {
+  position: absolute;
+  width: 400px;
+  height: 360px;
+  background: rgb(255,255,255);
+  border: 5px solid rgb(243, 239, 239);
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  margin: auto;
+  padding: 5%;
+}
+
+/* Recursos */
+
+.videos{
+  margin-left: 6%;
+  background-color: gainsboro;
+}
+
+/* Ingreso Admin Login */
+
+.login {
+  margin: 10% 42%;
+}
+
+.admin{
+  background-color: orange;
+}
+
+/* media query */
+@media (max-width: 990px) {
+  #titulo {
+    height: 40%;
+  }
+  .opcionesNav {
+    margin-left: 0%;
+  }
+
+  #testimonios{
+  padding: 10% 5%;
+  }
+
+  .boton{
+    width: 25%;
+  }
+  
+  .login {
+    margin: 10% 30%;
+  }
+
+}
+
+/* ------------------------------------------------------------------------ */
+
+
